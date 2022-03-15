@@ -1,3 +1,10 @@
+---
+# This branch can be deleted after:
+1. https://github.com/isaacsanders/omniauth-stripe-connect/pull/64/files gets merged and released
+2. Hopin Venue updates the dependency
+---
+
+
 # OmniAuth::StripeConnect
 
 Stripe Connect OAuth2 Strategy for OmniAuth 1.0.
